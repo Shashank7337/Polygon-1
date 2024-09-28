@@ -13,7 +13,7 @@ contract Dinar is ERC721A {
 
     string public prompt = "A Under-water world Portait, A Creative Futuristic World, A Majestic Peacock";
 
-    constructor() ERC721A("Dinar", "DNR") {
+    constructor() ERC721A("Dinar", "DIN") {
         owner = msg.sender;
     }
 
