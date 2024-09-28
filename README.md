@@ -90,7 +90,7 @@ string public prompt = "A Under-water world Portait, A Creative Futuristic World
 ## Authors
 
 - Shashank shekhar
-- shashankshekhar@gmail.com
+- shashankshekhar7337@gmail.com
 
 ## License
 
