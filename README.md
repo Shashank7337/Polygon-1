@@ -37,7 +37,7 @@ This project involves the deployment of a 5-item NFT collection using Bing AI-ge
 contract Dinar is ERC721A
 ```
 Name : Dinar  
-Symbol :IGN 
+Symbol :DIN 
 
 The `Dinar` contract extends the `ERC721A` contract and represents a collection of unique NFTs inspired by the Naruto series.
 
